@@ -1,0 +1,13 @@
+{
+    "name": "wbrak/rfmusic",
+    "description": "API music",
+    "type": "api",
+    "license": "GPL-3",
+    "authors": [
+        {
+            "name": "Iván López Ordorica",
+            "email": "webmasterbrak@gmail.com"
+        }
+    ],
+    "require": {}
+}
