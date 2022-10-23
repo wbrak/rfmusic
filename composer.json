@@ -10,8 +10,11 @@
         }
     ],
     "require": {
+        "php": "^8.0",
         "slim/slim": "4.*",
-        "slim/psr7": "^1.5"
+        "slim/psr7": "^1.5",
+        "php-di/php-di": "^6.4",
+        "ext-json": "*"
     },
     "autoload": {
         "psr-4": {
