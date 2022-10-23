@@ -1,8 +1,9 @@
 <?php
 
+use App\Action\HomeAction;
 use Slim\App;
 
 return function (App $app) {
-    $app->get('/', \App\Action\HomeAction::class);
+    $app->get('/', HomeAction::class);
 };
 
